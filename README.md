@@ -1,0 +1,2 @@
+# linchrome
+ungoogled chromium portablelinux
